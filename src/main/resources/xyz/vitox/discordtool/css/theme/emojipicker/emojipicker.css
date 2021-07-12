@@ -1,0 +1,51 @@
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
+
+#main-vbox {
+    -fx-background-color: #323e51;
+}
+
+.scroll-pane {
+    -fx-background-color: #2e3d54;
+}
+
+.text-field {
+    -fx-background-color: #41536f;
+}
+
+.tab-pane .tab {
+    -fx-background-color: #3d5b87;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: #323e51;
+}
+
+.combo-box {
+    -fx-background-color: #41536f;
+}
+
+.combo-box-popup .list-view .list-cell
+{
+    -fx-background-color: #41536f;
+}
+
+.combo-box-popup .list-view .list-cell:hover
+{
+    -fx-background-color: #2e3d54;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color:transparent;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #41536f;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
